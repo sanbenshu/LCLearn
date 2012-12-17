@@ -2,5 +2,6 @@
 
 int main(void)
 {
+	printf("fuck wangyining\n");
 	return 0;
 }
